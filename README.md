@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+This simple application single page application in which I have create two links using router-link,using this link I can move from one page to another without reloading entire page
+
 ## Build Setup
 
 ``` bash
